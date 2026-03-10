@@ -4,6 +4,23 @@
 🚀 Aprendendo programação e criando projetos  
 📚 Focada em HTML, CSS e JavaScript  
 
+ </a> 
+    <a href="https://github.com/juliamell0?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/juliamell0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/juliamell0?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/juliamell0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
