@@ -1,8 +1,16 @@
-# 👋 Olá, eu sou Júlia Melissa
+# 👩‍💻 Júlia Melissa
 
-💻 Estudante de Desenvolvimento Web  
-🚀 Aprendendo programação e criando projetos  
-📚 Focada em HTML, CSS e JavaScript  
+Olá! Me chamo Júlia Melissa Cruz Guerreiro, tenho 19 anos e sou natural da Bahia. Atualmente estou cursando Desenvolvimento de Sistemas no Senai-Bahia e Ciência da Computação na Unifacs. Sou apaixonada por tecnologia e estou constantemente aprendendo e desenvolvendo projetos para aprimorar minhas habilidades em programação e desenvolvimento de software.
+
+### 📚 Atualmente estudando
+
+- ☕ Java
+- 🐍 Python
+- 🌐 JavaScript
+- 🗄️ MySQL
+- 🧑‍💻 Git e GitHub
+
+Sempre buscando evoluir e aprender novas tecnologias 🚀 
 
  </a> 
     <a href="https://github.com/juliamell0?tab=repositories&sort=stargazers">
@@ -23,30 +31,90 @@
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+## 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="40" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="JS" height="40" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Git" height="40" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<br/>
+<br/>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamell0&show_icons=true&theme=dark)
+![Júlia GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamell0&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamell0&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamell0&layout=compact&theme=tokyonight)
 ---
 
 ## 🌎 Onde me encontrar
@@ -59,4 +127,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 
 
 
-📧 
