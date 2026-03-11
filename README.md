@@ -119,6 +119,7 @@ Sempre buscando evoluir e aprender novas tecnologias 🚀
 [GitHub Streak](https://streak-stats.demolab.com?user=juliamell0&theme=radical)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliamell0&theme=react-dark" />
+
 ---
 
 ## 🌎 Onde me encontrar
