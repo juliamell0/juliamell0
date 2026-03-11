@@ -115,6 +115,10 @@ Sempre buscando evoluir e aprender novas tecnologias 🚀
 ![Júlia GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamell0&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamell0&layout=compact&theme=tokyonight)
+
+[GitHub Streak](https://streak-stats.demolab.com?user=juliamell0&theme=radical)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliamell0&theme=react-dark" />
 ---
 
 ## 🌎 Onde me encontrar
